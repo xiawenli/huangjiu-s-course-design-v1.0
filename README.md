@@ -1,1 +1,2 @@
-# huangjiu-s-course-design-v1.0
+# This is a new porject,is HTML course design.
+# The version is 1.0.
