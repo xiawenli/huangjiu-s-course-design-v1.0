@@ -1,0 +1,129 @@
+/*
+    Author:
+    Version:
+    Last modified time:
+    Remarks:
+*/
+
+*{
+    margin: 0px 0px;
+}
+
+body{
+    width: 1439px;
+    height: 6053px;
+}
+
+.float_none{
+    float: none;
+}
+
+.float_left{
+    float: left;
+}
+
+.d{
+    display: blo
+}
+
+ul li{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:link{
+    text-decoration: none;
+}
+
+a:visited{
+    text-decoration: none;
+}
+
+.background_black{
+    background-color: black;
+}
+
+
+
+.nav{
+    width: 1439px;
+    height: 50px;
+}
+
+.header{
+    padding: 10px 10px 0px 40px;
+}
+
+.header_logo{
+    width: 100px;
+    height: 50px;
+    float: left;
+}
+
+.search{
+    width: 200px;
+    height: 50px;
+    text-align: right;
+    float: left;
+}
+
+.nav ul li{
+    display: block;
+
+}
+.nav ul li a {
+    text-align: center;
+    line-height: 50px;
+    width: 140px;
+    height: 50px;
+    background-color: darkgray;
+    display: block;
+    float: left;
+    border: 1px solid;
+}
+
+.banner{
+    margin-top: 1px;;
+    width: 1439px;
+    height: 440px;
+
+}
+
+
+
+.container{
+    margin: 0px auto;
+    width: 1180px;
+    height: 440px;
+    background-color: skyblue;
+}
+
+
+.border_list{
+    margin:0px auto;
+    width: 1180px;
+    height: 220px;
+    background-color: darkgray;
+}
+
+
+
+/*.nav {*/
+/*    !*width: 150px;*!*/
+/*    !*height: 50px;*!*/
+
+/*}*/
+
+/*.nav ul li a{*/
+/*    width: 150px;*/
+/*    height: 50px;*/
+/*    color: black;*/
+/*    text-align: center;*/
+/*    line-height: 50px;*/
+/*    display: block;*/
+/*    background-color: darkgray;*/
+/*    float: left;*/
+/*}*/
